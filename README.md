@@ -13,3 +13,20 @@ Welcome to the year 2912, where your data engineering skills are needed to solve
 ## Dataset Source
 
 The dataset used in this analysis is sourced from Kaggle and is titled "Spaceship Titanic." It was provided by Addison Howard, Ashley Chow, and Ryan Holbrook. You can access the dataset on Kaggle at [Spaceship Titanic](https://kaggle.com/competitions/spaceship-titanic).
+
+
+## Dataset Description
+
+The description of the dataset can be found [here](https://github.com/Kolo-Naukowe-Data-Science-PW/Rekrutacja_2023/blob/main/spaceship_titanic/opis_danych.txt). Below is a summary of key columns:
+
+- **PassengerId:** Unique identifier for each passenger, formatted as gggg_pp.
+- **HomePlanet:** The planet from which the passenger departed.
+- **CryoSleep:** Indicates whether the passenger entered cryosleep.
+- **Cabin:** Cabin number in the format deck/num/side (P for port/left, S for starboard/right).
+- **Destination:** The planet to which the passenger is traveling.
+- **Age:** Age of the passenger.
+- **VIP:** Whether the passenger paid for VIP services.
+- **RoomService, FoodCourt, ShoppingMall, Spa, VRDeck:** Payment for various ship amenities.
+- **Name:** The passenger's full name.
+- **Transported:** Information about whether the passenger reached their destination.
+
