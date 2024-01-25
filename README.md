@@ -10,3 +10,6 @@ Welcome to the year 2912, where your data engineering skills are needed to solve
 
 3. Create a machine learning model to predict whether a given passenger will reach their destination.
 
+## Dataset Source
+
+The dataset used in this analysis is sourced from Kaggle and is titled "Spaceship Titanic." It was provided by Addison Howard, Ashley Chow, and Ryan Holbrook. You can access the dataset on Kaggle at [Spaceship Titanic](https://kaggle.com/competitions/spaceship-titanic).
